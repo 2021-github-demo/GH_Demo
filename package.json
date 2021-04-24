@@ -1,0 +1,16 @@
+{
+  "name": "GH_Demo",
+  "version": "1.0.0",
+  "description": "This is from a lecture on using Github as a team!",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "express": "^4.17.1"
+  }
+}
